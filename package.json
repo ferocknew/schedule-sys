@@ -1,0 +1,22 @@
+{
+  "name": "schedule-sys",
+  "version": "1.0.0",
+  "description": "node-schedule",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ferocknew/schedule-sys.git"
+  },
+  "keywords": [
+    "schedule"
+  ],
+  "author": "jonah.fu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ferocknew/schedule-sys/issues"
+  },
+  "homepage": "https://github.com/ferocknew/schedule-sys#readme"
+}
